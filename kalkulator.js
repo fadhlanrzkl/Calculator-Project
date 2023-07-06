@@ -81,7 +81,7 @@ function CleanOutput (output) {
 	
 	if (output_array.length > 3) {
 		for (let i = output_array.length - 3; i > 0; i -= 3) {
-			output_array.splice(i, 0, ".");
+			output_array.splice(i, 0, ",");
 		}
 	}
 
