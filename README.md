@@ -11,7 +11,7 @@ The Calculator Project is a web-based calculator application built using JavaScr
 To use the Calculator Project, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the index.html file in a web browser.
+2. Open the `index.html` file in a web browser.
 3. Start performing calculations using the calculator interface.
 
 # Contact
