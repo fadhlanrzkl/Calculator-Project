@@ -1,6 +1,8 @@
 # Calculator-Project
 The Calculator Project is a web-based calculator application built using JavaScript, HTML, and CSS. It provides a simple yet powerful calculator interface for performing basic arithmetic operations.
 
+Access: https://fadhlanrzkl.github.io/Calculator-Project/
+
 # Features
 1. Arithmetic Operations: Perform addition, subtraction, multiplication, division, percentage, and parentheses.
 2. Decimal Handling: Support for decimal numbers in calculations.
